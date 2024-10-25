@@ -8,6 +8,6 @@ RUN npm install
 
 COPY . .
 
-EXEC 
+CMD ["npx", "vite"]
 
 EXPOSE 6000
