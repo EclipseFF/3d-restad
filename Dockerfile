@@ -11,4 +11,4 @@ COPY . .
 RUN vite --host
 
 
-EXPOSE 5173
+EXPOSE 6000
